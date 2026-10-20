@@ -1,0 +1,11 @@
+{
+  "name": "Script Assigner",
+  "author": "JD",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility"],
+    "description": "Assign a launch .sh script to any Steam or non-Steam game instead of typing paths into launch options.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/decky-plugin-template"
+  }
+}
